@@ -3,11 +3,14 @@
 <h3 align='center' >Frontend/JavaScript | TypeScript Developer.</h1>
 
    [![codewars](https://www.codewars.com/users/HankvanRose/badges/large)](https://www.codewars.com/users/HankvanRose)  
+   
  
 
 # 🛠 Мой рабочий стек
 
  ![Untitled](https://github.com/user-attachments/assets/9e5d6c3d-7256-4a95-abbd-ee6d60e7b5e5)
+   <img src="https://skillicons.dev/icons?i=nextjs" alt="Pinia" />
+    <span>NextJs</span>
 
 # ⚡ Планы развития
 
@@ -21,6 +24,7 @@
     <span>Vue</span>
     <img src="https://skillicons.dev/icons?i=pinia" alt="Pinia" />
     <span>Pinia</span>
+   
   </div>
 
 
