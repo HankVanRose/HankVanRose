@@ -19,7 +19,7 @@
     <span>Nestjs</span>
     <img src="https://skillicons.dev/icons?i=vue" alt="vue" />
     <span>Vue</span>
-    <img src="https://skillicons.dev/icons?i=Pinia" alt="Pinia" />
+    <img src="https://skillicons.dev/icons?i=pinia" alt="Pinia" />
     <span>Pinia</span>
   </div>
 
